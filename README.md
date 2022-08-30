@@ -1,1 +1,2 @@
-# octo-funicular
+# Lambda App
+A simple aws lmbda function implementation
